@@ -138,7 +138,67 @@ How it works?
              + w treści wiadomości napisz "wymiana produktu na....{to co pisałeś w wapro}";
              + w temacie "raport wydatków {dzisiejsza data};
              + do załączniku podepni skan paragonu, skan protokołu i raport wydatków.
-         
+             + sukces.
+         2.8 Reklamacja folii:
+            - Z reklamacją folii nie ma nic trudnego, jak jest w dobrym stanie i tylko się podważywa, to dajesz na nią protoków zwrotu i wżucasz do zwrotów, a osoie reklamującej naklejasz tą smaom nową folię;
+            - Pamiętaj o paragonie, jak nie mają paragonu lub go zdjęcia, to pierdol to. Po wymianie zwróć paragon, mają roczną gwarancje na odklejanie się folii;
+            - jak folia jest strasznie zabrudzona ale nie uszkodzona mechanicznie to masz zrobić szybką reklamację:
+             + Odpalasz wapro;
+             + wybierz "Start" i tam u góry zobaczysz "Zlecenia serwisowe i reklamacje";
+             + na dole kliknij "Dodaj";
+             + z prawej strony od opisu usterki, zobaczysz folder. Kliknij go;
+             + wybierz "reklamacja folii...;
+             + Wpisz numer paragonu. Jest na dalo paragonu i za zwyczaj zacyna sie z "FGW/...";
+             + W Decyzji wpisz "gwarancyjna wymiana folii";
+             + w polu Kontrahent wybierz "Dream MObile Dawid LAbich Spówka Komandytowa";
+             + przejdź do "status zlecenia, stan zlecenia";
+             + w polu "serwisant realozujący" wybierz siebie;
+             + przejdź do "pozycje reklamacji";
+             + kliknij "Dodaj" i zeskanuj folie która była w paragonie;
+             + kliknij "zapisz";
+             + wydrukuj reklamacje;
+             + daj do podpisu;
+             + zrób skan lub zdjęcie paragonu;
+             + zrób fotkę starej folii która jest jeszczę na telefonie;
+             + odklej starą folię i wymień na nową;
+             + oddaj paragon klientowi, ma gwarancję od dnia wystawienia paragonu. Rok. Stary paragon działa rok, nie drukuj nowego!!!
+             + Zeskanuj Reklamację;
+             + wejdź na https://dpoczta.pl/;
+             + stwórz nową wiadomość do "Reklamacji@dreammobile.pl";
+             + podepnij zdjęcie folii, paragon i reklamację;
+             + w tytule napisz "reklamacja folii {dzisiejsza data}";
+             + W opisie napisz "gwarancyjna wymiana folii";
+             + Wyślij;
+             + Sukces.
+         2.9 Reklamacja produktu:
+           - To jest totalne gówno, nikt tego nie lubi;
+           - Jak produkt jest w dobrym stanie ale nie działa, typu power bank przestał działać ale ma pudełko i nie jest porysowany, to daj osobie nowy taki sam a ten stary rzuć na zwroty;
+           - Jak osoba żąda o zwrot pieniędzy, to już trudniej:
+              + wejdź w wapro;
+              + kliknij "Zlecenia serwisowę i reklamację";
+              + Kliknij "Dodaj";
+              + Wyszukaj konrahenta (Jak ktoś brał na Fakturę lub paragon NIP, masz dodać ten nip. Jak kupiono było na złykwy paragon to wpisz "Sprzedaż detaliczna");
+              + Kliknij folder obok pola "Kontakt";
+              + Dodaj i wpisz Imie, Nazwisko, numer telefony (+48...);
+              + Zapisz;
+              + Prawym przyciskiem kliknij na tą reklamację i wybierz "Popraw";
+              + Przejdź do wkładki "RODO";
+              + Ustaw dzisiejszą datę;
+              + przejdź w "Rejestr zgód", dodaj zgodę na SMS. Źródwo pozyskania - "Rozmowa osobista";
+              + Zapisz;
+              + Zapisz;
+              + Dodaj klienta;
+              + Wybierz żądanie kontrahenta;
+              + Uzupewnij opis;
+              + Przejdź w "Status zlecenia";
+              + Serwisant realizujący - Ty;
+              + Przejdź w "Pozycji reklamacji";
+              + W pustym polu kliknij prawy przycisk i wybierz "opierację dodatkowę";
+              + wybierz "Podłącz dokument handlowy" i wyszukaj paragon, następnie dodatj produkt;
+              + Zapisz dwukrotnie i też wydrukuj dwukrotnie;
+              + Daj na podpis i oddaj jedną kopię osobie reklamującej. Powiedz że pan/pani dostanie decyzję od odziału reklamacyjnego SMS-em;
+              + Zeskanuj paragon, zrób zdjęcie uszkodzenia, zrób skan umowy i wyślij wszystko na maila do odziału reklamacji;
+              + suckces. 
     3. Postaci Dream Mobile:
       3.1 Opis ochroniaży:
          - jak do ciebie podszedł ochroniaż, najlepiej go zlewaj lub ciśnij z niego bekę;
@@ -191,4 +251,4 @@ How it works?
      3.5 Dream Mobile:
         - Zimowit: kierownik wyspy. Jak masz pytanie w jego wolne, to nie dzwoń bo i tak powie zadzwonić do Seby. Jak masz pytania w trakcie zmiany to jak najbardziej pomożę. Załatwi twoie sprawy jak coś spierdolisz, ale tylko w trakcie zmiany. Pochłania od tysiąca do dwóch tysięcy snusów dziennie, jak kawa to z zimnym mlekiem. W późniejszych godzinach, kiedy poziomy nudy stają się niebezpieczne, można doznać dźgnięcia przypadkowym przedmiotem (długopis, rączka od nożyka (błagam kurwa nie pomyl kiedyś stron))
         - Areczku: polski Jhony Silverhand, chcesz mu zrobić przyjemnie to kup mu fender stratokaster old sckool edytion. Zna wszystkich pracowników starbucks. Zawszę jest o czym pogadać, i można na nim polegać. Lubi kawę pracowniczą za 7,25 zł, a tak właściwie to koleżanki za ladą, ma ekspres w domu to mógłby se robić kawę w termos i nie pajacowac, ale przynajmniej jest contencik;
-        - Olafior: inspiruje się ustawkami kibicowskimi. Zawszę chcę być na otwarcie, zawszę wychodzi o 15 minut wcześniej. jak chcęsz go zobaczyć w weekend to zapomni, raczej jest na wakacjach lub w szkole. Wyjeżdrza za granicę co miesiąc. Jest dobrym ziomkiem. Zawszę znajddziesz z nim temat do rozmowy. Nie lubi kawy i nie wierzę w depresję. Był zawodowym kick boxerem - dla tego uważaj. Może wyzerować 3 desperadosy za jeden łyk. ciągle siedzi w telefonie, nie graj z nim w szachy na pieniądze.
+        - Olafior: inspiruje się ustawkami kibicowskimi. Zawszę chcę być na otwarcie. jak chcęsz go zobaczyć w weekend to zapomni, raczej jest na wakacjach lub w szkole. Wyjeżdrza za granicę co miesiąc. Jest dobrym ziomkiem. Zawszę znajddziesz z nim temat do rozmowy. Nie lubi kawy i nie wierzę w depresję. Był zawodowym kick boxerem - dla tego uważaj. Może wyzerować 3 desperadosy za jeden łyk. ciągle siedzi w telefonie, nie graj z nim w szachy na pieniądze.
