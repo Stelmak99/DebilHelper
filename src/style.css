@@ -23,6 +23,9 @@ body {
 
 .main-menu {
     background-color: grey;
+}
+
+.main-menu__link {
     border-style: outset;
     border-radius: 5px;
     margin: 50px 50px;
