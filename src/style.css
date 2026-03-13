@@ -22,10 +22,11 @@ body {
 }
 
 .main-menu {
-    background-color: grey;
+    text-align: center;
 }
 
 .main-menu__link {
+    background-color: grey;
     border-style: outset;
     pading 10px;
     border-radius: 5px;
