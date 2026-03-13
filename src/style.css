@@ -28,7 +28,7 @@ body {
 .main-menu__link {
     background-color: grey;
     border-style: outset;
-    pading 10px;
+    padding: 100px;
     border-radius: 5px;
     margin: 100px 100px;
     text-align: center;
