@@ -27,6 +27,7 @@ body {
 
 .main-menu__link {
     border-style: outset;
+    pading 10px;
     border-radius: 5px;
     margin: 50px 50px;
     text-align: center;
