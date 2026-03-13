@@ -19,6 +19,7 @@ body {
 
 .title {
     text-align: center;
+    padding: 20px;
 }
 
 .main-menu {
@@ -37,4 +38,5 @@ body {
 .footer {
     text-align: justify;
     background-color: grey;
+    padding: 20px;
 }
