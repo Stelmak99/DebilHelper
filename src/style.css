@@ -1,0 +1,12 @@
+body {
+    background-color: black;
+}
+
+.main-menu {
+    background-color: grey;
+    color: rgb(133, 253, 5);
+    border-style: outset;
+    border-radius: 5px;
+    margin: 50px 50px;
+    text-align: center;
+}
