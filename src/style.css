@@ -34,6 +34,7 @@ body {
     border-style: outset;
     border-radius: 5px;
     text-align: center;
+    text-decoration: none;
 }
 
 .footer {

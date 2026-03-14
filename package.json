@@ -1,0 +1,21 @@
+{
+  "name": "debilhelper",
+  "version": "1.0.0",
+  "description": "Artificial intelligence in fight against natural stupidity",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stelmak99/DebilHelper.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Stelmak99/DebilHelper/issues"
+  },
+  "homepage": "https://github.com/Stelmak99/DebilHelper#readme"
+}
