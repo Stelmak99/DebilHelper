@@ -39,7 +39,7 @@ How it works?
      2.5 Czy mamy serwis:
          - jak ktoś chcę serwis sprawdź w zeszycie ile kosztuje część do naprawy;
          - jak ktoś jest miły powiedz tą cene co w zeszycie;
-         - dla chamów, turasów i osó co nawet nie próbójem gadać po polsku - +50 zł do ceny serwisu;
+         - dla chamów, turasów i osób co nawet nie próbójem gadać po polsku - +50 zł do ceny serwisu;
          - sukces.
      2.6 Skup telefonu:
          - jak ktoś chcę sprzedać telefon, to skupujemy;

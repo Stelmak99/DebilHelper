@@ -125,7 +125,7 @@ summary:hover {
 
 .details-content {
     padding: 15px;
-    color: #00ffff; /* Neonowy błękit dla tekstu w środku */
+    color: white;
     border-top: 1px solid #ff00ff;
     background: rgba(0, 0, 0, 0.8);
 }
@@ -136,4 +136,9 @@ summary:hover {
     display: flex;
     justify-content: center;
     gap: 20px;
+}
+
+p {
+    color: white;
+    text-shadow: none;
 }
