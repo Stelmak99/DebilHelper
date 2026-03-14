@@ -1,0 +1,136 @@
+body {
+    font-family: "Pixelify Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    text-transform: uppercase;
+    text-shadow: 
+        0 0 5px #fff,
+        0 0 10px #fff,
+        0 0 20px #ff00de, /* Różowy neon */
+        0 0 40px #ff00de,
+        0 0 80px #ff00de,
+        0 0 90px #ff00de,
+        0 0 100px #ff00de;
+    letter-spacing: 5px;
+    background-image: url(2733260.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    margin: 0;
+}
+
+.nav {
+    background-color: rgba(0, 0, 0, 0.5);
+    backdrop-filter: blur(10px);  
+    text-align: center;
+    margin: -10px;
+    padding: 10px;
+    width: 100%;
+    position: fixed;  
+}
+
+.nav__link {
+    text-decoration: none;
+    margin: 5px;
+    color: inherit;
+    transition: text-shadow 0.3s ease, color 0.3s ease;
+}
+
+.nav__link:hover {
+    text-shadow: 
+        0 0 10px #ff00ff,   /* Wewnętrzna poświata */
+        0 0 20px #ff00ff,  /* Średni blask */
+        0 0 30px #ff00ff,  /* Szeroka neonowa aura */
+        0 0 40px #ff00ff;  /* Najmocniejszy efekt rozmycia */
+}
+
+.nav-link.active {
+    text-shadow: 0 0 10px #00ffff; /* Inny kolor dla obecnej strony */
+    border-bottom: 2px solid #00ffff;
+}
+
+.title {
+    padding-top: 60px;
+    text-align: center;
+    margin: -10px;
+}
+
+.main-menu {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 456px;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.main-menu__link {
+    background-color: rgba(0, 0, 0, 0.5);
+    backdrop-filter: blur(10px); 
+    padding: 20px; 
+    border: 2px outset #ff00de;
+    border-radius: 5px;
+    border-width: 5px;
+    text-decoration: none;
+    color: inherit;
+    flex: 1;
+    max-width: 250px;
+    transition: transform 0.3s ease;
+}
+
+.main-menu__link:hover {
+    transform: translateY(-5px);
+    filter: brightness(1.2);
+    box-shadow: 0 0 20px #ff00ff;
+}
+
+.footer {
+    background-color: rgba(0, 0, 0, 0.8);
+    padding: 10px;
+    text-align: center;
+    border-top: 2px solid #ff00de;
+    position: relative;
+    width: 100%;
+}
+
+.decision {
+    max-width: 600px;
+    margin: 20px auto;
+}
+
+details {
+    background: rgba(0, 0, 0, 0.5);
+    border: 2px solid #ff00ff; /* Neonowy róż */
+    margin-bottom: 15px;
+    border-radius: 5px;
+    overflow: hidden;
+    transition: all 0.3s ease;
+}
+
+summary {
+    padding: 15px;
+    font-size: 1.2rem;
+    color: #fff;
+    cursor: pointer;
+    list-style: none; /* Ukrywa domyślny trójkącik w niektórych przeglądarkach */
+    text-transform: uppercase;
+    font-weight: bold;
+    outline: none;
+}
+
+summary:hover {
+    text-shadow: 0 0 10px #ff00ff;
+    background: rgba(255, 0, 255, 0.1);
+}
+
+.details-content {
+    padding: 15px;
+    color: #00ffff; /* Neonowy błękit dla tekstu w środku */
+    border-top: 1px solid #ff00ff;
+    background: rgba(0, 0, 0, 0.8);
+}
