@@ -1,12 +1,25 @@
 body {
-    color: rgb(133, 253, 5);
-    font-family: 'Press Start 2P', cursive;
+    font-family: 'Orbitron', sans-serif;
     text-transform: uppercase;
-    background-color: black;
+    text-shadow: 
+        0 0 5px #fff,
+        0 0 10px #fff,
+        0 0 20px #ff00de, /* Różowy neon */
+        0 0 40px #ff00de,
+        0 0 80px #ff00de,
+        0 0 90px #ff00de,
+        0 0 100px #ff00de;
+    letter-spacing: 5px;
+    background-image: url(2733260.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100%;
 }
 
 .nav {
-    background-color: grey;
+    background-color: rgba(0, 0, 0, 0.5);
+    backdrop-filter: blur(10px);  
     text-align: center;
     margin: -10px;
     padding: 10px;
@@ -15,6 +28,7 @@ body {
 .nav__link {
     text-decoration: none;
     margin: 5px;
+    color: inherit;
 }
 
 .title {
@@ -25,21 +39,28 @@ body {
 
 .main-menu {
     text-align: center;
-    margin: 100px 100px;
-    padding: 100px;
+    margin-top: 50px;
+    margin-bottom: 456px;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
 }
 
 .main-menu__link {
-    background-color: grey;
-    border-style: outset;
+    background-color: rgba(0, 0, 0, 0.5);
+    backdrop-filter: blur(10px); 
+    padding: 20px; 
+    border: 2px outset #ff00de;
     border-radius: 5px;
-    text-align: center;
+    border-width: 5px;
     text-decoration: none;
+    color: inherit;
 }
 
 .footer {
     text-align: justify;
-    background-color: grey;
+    background-color: rgba(0, 0, 0, 0.5);
+    backdrop-filter: blur(10px); 
     margin: -10px;
     padding: 10px;
 }
