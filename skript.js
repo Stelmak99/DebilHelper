@@ -1,17 +1,21 @@
+document.addEventListener('DOMContentLoaded', () => {
+    const allDetails = document.querySelectorAll('details');
 
-  // Pobieramy wszystkie elementy details na stronie
-  const allDetails = document.querySelectorAll('details');
+    allDetails.forEach((targetDetail) => {
+        targetDetail.addEventListener('toggle', () => {
+            if (targetDetail.open) {
 
-  allDetails.forEach((targetDetail) => {
-    targetDetail.addEventListener('toggle', () => {
-      // Jeśli właśnie otworzyliśmy ten element
-      if (targetDetail.open) {
-        // Przechodzimy przez wszystkie i zamykamy inne niż ten kliknięty
-        allDetails.forEach((detail) => {
-          if (detail !== targetDetail) {
-            detail.removeAttribute('open');
-          }
+                const parent = targetDetail.parentElement;
+
+                const siblings = parent.querySelectorAll(':scope > details');
+
+                siblings.forEach((detail) => {
+                    if (detail !== targetDetail) {
+                        detail.removeAttribute('open');
+                    }
+                });
+            }
         });
-      }
     });
-  });
+});
+
