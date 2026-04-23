@@ -23,6 +23,7 @@ body {
     margin: 0;
 }
 
+/* #region navigation */
 .nav {
     background-color: rgba(0, 0, 0, 0.5);
     backdrop-filter: blur(10px);  
@@ -53,12 +54,14 @@ body {
     border-bottom: 2px solid #00ffff;
 }
 
+/* #endregion */
+
 .title {
     padding-top: 60px;
     text-align: center;
     margin: -10px;
 }
-
+/* #region main-menu*/
 .main-menu {
     text-align: center;
     margin-top: 50px;
@@ -91,6 +94,8 @@ body {
     box-shadow: 0 0 20px #ff00ff;
 }
 
+/* #endregion */
+
 .footer {
     background-color: rgba(0, 0, 0, 0.8);
     padding: 10px;
@@ -101,6 +106,8 @@ body {
     position: relative;
 }
 
+/* #region dopasowanie-innych-stron*/
+
 details {
     background: rgba(0, 0, 0, 0.5);
     border: 2px solid #ff00ff;
@@ -109,7 +116,6 @@ details {
     overflow: hidden;
     transition: all 0.3s ease;
 }
-
 
 summary {
     padding: 15px;
@@ -126,6 +132,7 @@ summary:hover {
     text-shadow: 0 0 10px #ff00ff;
     background: rgba(255, 0, 255, 0.1);
 }
+
 
 .details-content {
     padding: 15px;
@@ -149,3 +156,5 @@ p {
     color: white;
     text-shadow: none;
 }
+
+/* #endregion */
